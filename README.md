@@ -1,8 +1,7 @@
 
--3D Modeler
--Advanced Unity Scripter 
-
-- Reach me on Discord! : .deadby
+3D Modeler
+Advanced Unity Scripter 
+Reach me on Discord! : .deadby
 
 <!---
 Deadby3232/Deadby3232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
